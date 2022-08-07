@@ -1,0 +1,32 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 15;
+  /* margin-top: 15 px; */
+  
+}
+
+.bg-grey {
+    background-color: rgb(173, 173, 173);
+}
+
+
+input {
+  width: 280px;
+  margin-top: 0px;
+}
+
+.button {
+  text-align: center;
+  float: left;
+  margin-left: 5px;
+  display: block;
+}
+
+.box{
+  float: left;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
